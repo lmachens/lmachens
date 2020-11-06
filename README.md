@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![My stats](https://github-readme-stats-two-silk.vercel.app/api?username=lmachens&count_private=true&show_icons=true&theme=radical)](https://github-readme-stats-two-silk.vercel.app)
+
+[![Top Langs](https://github-readme-stats-two-silk.vercel.app/api/top-langs/?username=lmachens&theme=radical)](https://github-readme-stats-two-silk.vercel.app)
