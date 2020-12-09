@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lmachens&label=Profile%20views&color=0e75b6&style=flat" alt="lmachens" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lmachens" alt="lmachens" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lmachens&theme=onedark" alt="lmachens" /></a> </p>
 
 - 🔭 I’m currently working on [Trophy Hunter](https://github.com/lmachens/trophy-hunter)
 
@@ -27,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lmachens&show_icons=true&locale=en&theme=radical" alt="lmachens" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lmachens&theme=radical" alt="lmachens" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lmachens&theme=highcontrast" alt="lmachens" /></p>
