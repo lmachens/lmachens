@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **react, js, overwolf and coaching**
 
-- 📫 How to reach me **We can use the channel #hi-leon to discuss details, share files, and get work done. Join here: https://join.slack.com/share/zt-jwj8be5h-vrsShxs60tBHj~VdZe~JrA**
+- 📫 You can reach me here: leon@machens.koeln
 
 - ⚡ Fun fact **https://youtu.be/uVjggcmqMxw?t=1378**
 
