@@ -3,17 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lmachens&label=Profile%20views&color=0e75b6&style=flat" alt="lmachens" /> </p>
 
-- 💻 [Gaming Apps Coding Course](https://machens.dev) starts in Summer 2021
+- 💻 [Discord](https://discord.com/invite/NTZu8Px) community with > 3200 members
 
-- 📺 I recently start streaming on [Twitch](https://www.twitch.tv/coachleon)
+- 🏰 I recently start working on [Hogwarts.gg](https://github.com/lmachens/hogwarts.gg), a Hogwarts Legacy fansite
 
-- 🔭 I’m currently working on [Trophy Hunter](https://github.com/lmachens/trophy-hunter)
+- 💬 Ask me about **nextjs, react, typescript, overwolf and coaching**
 
-- 🌱 I’m currently learning **how to build a steam fireplace**
-
-- 💬 Ask me about **react, js, overwolf and coaching**
-
-- 📫 You can reach me here: leon@machens.koeln
+- 📫 You can reach me here: `DevLeon#4001` (Discord)
 
 - ⚡ Fun fact **https://youtu.be/uVjggcmqMxw?t=1378**
 
