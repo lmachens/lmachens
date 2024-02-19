@@ -7,20 +7,25 @@
 
 If you are interested in gaming apps or coding, you will find like-minded people who like to support each other. It doesn't matter if you are a beginner or expert, everyone is welcome 🤘.
 
-Join my [Discord](https://discord.com/invite/NTZu8Px) or send me a DM: `DevLeon#4001`.
+Join my [Discord](https://discord.gg/thgl)
 
 <h3>💻 My projects</h3>
 
-- 🏰 [Hogwarts.gg](https://github.com/lmachens/hogwarts.gg), a Hogwarts Legacy fansite
-- 🌎 [Aeternum Map](https://github.com/lmachens/aeternum-map), an interactive map for New World
-- ⚔ [Arkesia.gg](https://github.com/lmachens/arkesia.gg-web), an interactive map for Lost Ark
-- 🏆 [Trophy Hunter](https://github.com/lmachens/trophy-hunter), a League of Legends companion app
-- 🚩 [SoC.gg](https://github.com/lmachens/soc.gg), a Songs of Conquest fansite
-- 💀 [Skeleton](https://github.com/lmachens/skeleton), an app for customizable window overlays
+Explore a world of gaming innovation with my diverse portfolio of apps and tools. From interactive maps that offer real-time position tracking in popular games like Palworld, Palia, and Diablo IV, to personalized trackers and databases for New World, League Of Legends, Songs Of Conquest, and more, my projects are designed to enhance your gaming experience. Whether you're seeking hidden treasures, tracking your progress, or discovering new realms, my suite of apps has you covered. Join me and unlock new levels of gaming enjoyment today.
+
+- [Palworld](https://palworld.th.gl) - Interactive map with real-time position tracking
+- [Aeternum Map](https://aeternum-map.th.gl) - Interactive map with real-time position tracking
+- [Aeternum Tracker](https://aeternum-tracker.th.gl) - Personalized Tracking for New World Players
+- [Diablo 4 Map](https://diablo4.th.gl) - Discover Sancturay with real-time position tracking
+- [Palia Map](https://palia.th.gl) - Interactive map with real-time position tracking
+- [Sons Of The Forest Map](https://sotf.th.gl) - Real-Time position tracking, nodes and more
+- [Lost Ark Map](https://arkesia.th.gl) - Interactive map with mokoko seeds, hidden stories and more
+- [Hogwarts Legacy Map](https://hogwarts.th.gl) - Real-time tracking and progress updates
+- [Songs Of Conquest](https://soc.th.gl) - Database with buildings, factions, units, skills, spells and wielders
+- [Trophy Hunter](https://lol.th.gl) - Over 200 trophies to achieve, all with unique abilities and skills
+- [New World Influence Updates](https://influence.th.gl/) - Bring a visual understanding of each server
+- [Skeleton](https://github.com/lmachens/skeleton) - A simple and lightweight CSS framework
 
 <h3>⚡Fun facts</h3>
 
 - **https://youtu.be/uVjggcmqMxw?t=1378**
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lmachens&theme=highcontrast" alt="lmachens" /></p>
-
