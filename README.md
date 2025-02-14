@@ -13,6 +13,8 @@ Join my [Discord](https://discord.gg/thgl) and visit [The Hidden Gaming Lair](ht
 
 Explore a world of gaming innovation with my diverse portfolio of apps and tools. From interactive maps that offer real-time position tracking in popular games like Palworld, Palia, and Diablo IV, to personalized trackers and databases for New World, League Of Legends, Songs Of Conquest, and more, my projects are designed to enhance your gaming experience. Whether you're seeking hidden treasures, tracking your progress, or discovering new realms, my suite of apps has you covered. Join me and unlock new levels of gaming enjoyment today.
 
+- [Avowed](https://avowed.th.gl) - Interactive maps for Avowed
+- [Infinity Nikki](https://infinitynikki.th.gl) - Interactive maps for Infinity Nikki
 - [Palworld](https://palworld.th.gl) - Interactive map with real-time position tracking
 - [Aeternum Map](https://aeternum-map.th.gl) - Interactive map with real-time position tracking
 - [Aeternum Tracker](https://aeternum-tracker.th.gl) - Personalized Tracking for New World Players
