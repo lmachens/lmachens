@@ -7,7 +7,7 @@
 
 If you are interested in gaming apps or coding, you will find like-minded people who like to support each other. It doesn't matter if you are a beginner or expert, everyone is welcome 🤘.
 
-Join my [Discord](https://discord.gg/thgl) and visit [The Hidden Gaming Lair](https://www.th.gl).
+Join my [Discord](https://th.gl/discord) and visit [The Hidden Gaming Lair](https://www.th.gl).
 
 <h3>💻 My projects</h3>
 
